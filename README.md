@@ -1,6 +1,6 @@
 # Python_projects
 
-This files contain all the projects on Python programmming language I mad eduring my python journey 
+This files contain all the projects on Python programmming language I made during my python journey 
 
 ## [1]. Automated Youtube Video Downloader 
 
