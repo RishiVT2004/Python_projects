@@ -4,7 +4,7 @@ This files contain all the projects on Python programmming language I made durin
 
 ## [1]. Automated Youtube Video Downloader 
 
-   ### 1. Made a auutomated youtube video downloader sing the tkinter library and importing youtube and filedialog function
+   ### 1. Made an auutomated youtube video downloader using the tkinter library and importing youtube and filedialog function
    ### 2. it takes a url of a video, an da path location where the video needs to be saved, url is typed manually in terminal while the path location is selected by instantiating a tkinter window (root) firstly
    ### 3. YouTube is used to define the url , to download the best quality of stream we use  and to get download resolution 
          [stream = yt_vid.streams.filter(progressive=True,file_extension="mp4")]
